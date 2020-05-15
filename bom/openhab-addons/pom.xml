@@ -163,6 +163,11 @@
     </dependency>
     <dependency>
       <groupId>org.openhab.addons.bundles</groupId>
+      <artifactId>org.openhab.binding.danfossairunit</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.openhab.addons.bundles</groupId>
       <artifactId>org.openhab.binding.darksky</artifactId>
       <version>${project.version}</version>
     </dependency>
@@ -229,6 +234,11 @@
     <dependency>
       <groupId>org.openhab.addons.bundles</groupId>
       <artifactId>org.openhab.binding.elerotransmitterstick</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.openhab.addons.bundles</groupId>
+      <artifactId>org.openhab.binding.energenie</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
@@ -374,6 +384,11 @@
     <dependency>
       <groupId>org.openhab.addons.bundles</groupId>
       <artifactId>org.openhab.binding.iaqualink</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.openhab.addons.bundles</groupId>
+      <artifactId>org.openhab.binding.icalendar</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>

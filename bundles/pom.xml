@@ -69,6 +69,7 @@
     <module>org.openhab.binding.coolmasternet</module>
     <module>org.openhab.binding.coronastats</module>
     <module>org.openhab.binding.daikin</module>
+    <module>org.openhab.binding.danfossairunit</module>
     <module>org.openhab.binding.darksky</module>
     <module>org.openhab.binding.deconz</module>
     <module>org.openhab.binding.denonmarantz</module>
@@ -83,6 +84,7 @@
     <module>org.openhab.binding.dwdunwetter</module>
     <module>org.openhab.binding.ecobee</module>
     <module>org.openhab.binding.elerotransmitterstick</module>
+    <module>org.openhab.binding.energenie</module>
     <module>org.openhab.binding.enocean</module>
     <module>org.openhab.binding.enturno</module>
     <module>org.openhab.binding.etherrain</module>
@@ -112,6 +114,7 @@
     <module>org.openhab.binding.hydrawise</module>
     <module>org.openhab.binding.hyperion</module>
     <module>org.openhab.binding.iaqualink</module>
+    <module>org.openhab.binding.icalendar</module>
     <module>org.openhab.binding.icloud</module>
     <module>org.openhab.binding.ihc</module>
     <module>org.openhab.binding.innogysmarthome</module>
